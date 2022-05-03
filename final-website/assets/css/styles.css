@@ -14,15 +14,16 @@ h1 {
 
 h2 {
 	font-size: 1.9rem;
-	padding: 1em;
+	padding: 1.4rem;
+
 }
 
 h3 {
-	font-size: 1.4em;
+	font-size: 1em;
 }
 
 p {
-	font-size: 1.2em;
+	font-size: 1rem;
 	line-height: 1.5em;
 	margin-bottom: 1.5em;
 }
