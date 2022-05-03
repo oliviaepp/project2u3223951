@@ -2,18 +2,25 @@
 # set the layout to use, in this case, the homepage one
 layout: layouts/homepage
 
+
+
+
 # set the page title
-title: 11056 Project 2 Starter
+title: Canberra Art Biennial
 
 # We can set extra info here to use in our templates
 
-hero:
-    title: "I am the hero title!"
+
 ---
 
+## Lizzie Hall
 
-# Hello!
+### Neil Hobbs May 25, 2020
 
-## I am your index.md file
+![alt text](assets/images/1.jpeg)
 
-Any content you add to this markdown file will be displayed on the homepage 
+adhjsfkvsdhjfzn
+ldsbgvsdbn
+aebdsf.ks
+
+![alt text](assets/images/spacey.jpeg)s
