@@ -9,7 +9,7 @@ h1 {
 	font-size: 3em;
 	/* shorthand for TOP RIGHT BOTTOM LEFT */
 	/* margin: 1em 0 1.5em 0; */
-	padding: 0rem;
+	padding: 1.4rem;
 }
 
 h2 {
@@ -22,6 +22,10 @@ h3 {
 	font-size: 1em;
 }
 
+header img {
+	width: 30%;
+}
+
 p {
 	font-size: 1rem;
 	line-height: 1.5em;
@@ -29,7 +33,7 @@ p {
 }
 
 .inner-wrapper {
-	width: 95%;
+	width: 100%;
 	margin: 0 auto;
 }
 

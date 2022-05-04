@@ -13,7 +13,7 @@ title: Canberra Art Biennial
 
 ---
 
-## Contour 556 / 2020
+# Contour 556 / 2020
 
 ### 9 - 31 OCTOBER 2020
 
@@ -26,14 +26,19 @@ The event launched on Friday 9th October, at King O’Malleys outdoor roof terra
 
 
 
-
+# Artists
+## Lizzie Hall
+### Neil Hobbs, May 25, 2020
 
 ## HOOPS CONTOUR 556 / 2020
 
-![alt text](assets/images/1.jpeg)
 
-adhjsfkvsdhjfzn
-ldsbgvsdbn
-aebdsf.ks
+![alt text](assets/images/1.jpeg)
+ABOUT THE WORK:
+a series of steel hoops coming out of the water on the edge of the lake at Aspen Island.
+
+ABOUT THE ARTIST:
+Lizzie Hall studied Printmedia and Drawing at the Canberra School of Art graduating with honours in 2000. She works in painting, drawing and sculpture. She has been a finalist in various awards including the Brett Whiteley Travelling Art Scholarship, the Redlands Art Prize and the Woollahra Small Sculpture Prize. She currently works from her studio in Braidwood, NSW. 
+
 
 ![alt text](assets/images/2.jpeg)
