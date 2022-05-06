@@ -42,3 +42,9 @@ Lizzie Hall studied Printmedia and Drawing at the Canberra School of Art graduat
 
 
 ![alt text](assets/images/2.jpeg)
+
+## Greg Johns
+### Neil Hobbs, May 4 2020
+## HOVERING FIGURE CONTOUR 556 / 2020
+
+![alt text](assets/images/greg1.jpeg)
