@@ -21,6 +21,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	padding: 1rem;
+	text-align: center;
 }
 
 header img {
@@ -47,7 +48,7 @@ footer {
 }
 
 .main-content {
-	width: 65%;
+	width: 70%;
 
 	margin: 0 auto;
 	text-align: center;
@@ -58,7 +59,7 @@ img {
 	padding: 1rem;
 }
 
-/*
+/* The hero text has been removed because it did not fit the aesthetic of the website. It was also not necessary as text at the top of the page is the hero.
 .hero {
 	text-align: center;
 	background-image: url(../images/spacey.jpeg);
