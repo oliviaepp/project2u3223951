@@ -61,3 +61,13 @@ ABOUT THE ARTIST:
 Greg has been working as a full-time sculptor for 44 years, completing major commissions in Australia and internationally, as well as exhibiting annually in solo/  major group shows in Australia, New York, Asia, the Middle East and Europe. In 2001 he initiated an independent sculpture and environmental landscape at Palmer. In 2012 he was the recipient of the McClelland Museum Sculpture Prize. A second monograph by John Neylon, “Edge Of Time” was published in 2015. Major commissions completed include, “From The Centre – To The Centre”, 2016, “Landlines” Gawler Entrance, 2017, “To The Centre”, England, 2018/19, M5 Expressway project, Sydney, 2020. 
 
 ![alt text](assets/images/greg3.jpeg)
+
+# Locations
+
+SPRINGBANK ISLAND / AUSTRALIAN NATIONAL UNIVERSITY / CIVIC SQUARE / WEST BASIN / 8 PETRIE PLAZA / 16 MARCUS CLARKE STREET / KING O’MALLEYS /HENRY ROLLAND PARK / LAKE BURLEY GRIFFIN CENTRAL BASIN / COMMONWEALTH PLACE / BOWEN PLACE / ASPEN ISLAND / BOWEN PARK / BARTON ARTBOX - 7 YOUNG STREET, BARTON /  COX GALLERY / CANBERRA GLASSWORKS / THOR’S HAMMER MIXING ROOM GALLERY / CANBERRA MUSEUM AND GALLERY
+
+# Stay tuned for Contour 556 / 2022 by keeping an eye on our socials
+
+ 
+
+
